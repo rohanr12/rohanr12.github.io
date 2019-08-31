@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohan Rajan</title>
+    <link>/</link>
+    <description>Recent content on Rohan Rajan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Rohan Rajan. I am a senior pursuing Computer Science at NIT Trichy.
+I am currently interested in issues surrounding the advancement of ethical data practices and machine learning. I enjoy breaking systems and trying to build from the bottom up.
+Check out my resume here</description>
+    </item>
+    
+  </channel>
+</rss>
